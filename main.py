@@ -4,7 +4,7 @@ import os.path
 
 #552934290
 
-token = "AQAAAAAVrWhGAADLWxroDl49PkmZhBq9kJGdHJQ"
+token = ""
 tokenvk = "958eb5d439726565e9333aa30e50e0f937ee432e927f0dbd541c541887d919a7c56f95c04217915c32008"
 URLvk = "https://api.vk.com/method/"
 URLya = "https://cloud-api.yandex.net/v1/disk/resources"
